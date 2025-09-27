@@ -1,45 +1,41 @@
 # WeSplit
 
-Um aplicativo SwiftUI para calcular gorjetas e dividir contas entre pessoas.
+A SwiftUI app for calculating tips and splitting bills between people.
 
-## Funcionalidades
+## Features
 
-- ✅ Calculadora de gorjetas
-- ✅ Divisão automática da conta entre pessoas
-- ✅ Suporte a diferentes moedas (baseado na localização do usuário)
-- ✅ Interface intuitiva com formulários SwiftUI
-- ✅ Teclado numérico para entrada de valores
-- ✅ Navegação com título centralizado
+- ✅ Tip calculator
+- ✅ Automatic bill splitting between people
+- ✅ Support for different currencies (based on user's location)
+- ✅ Intuitive interface with SwiftUI forms
+- ✅ Numeric keyboard for value input
+- ✅ Navigation with centered title
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **SwiftUI** - Framework de interface do usuário
-- **Swift** - Linguagem de programação
-- **iOS 15.0+** - Versão mínima suportada
+- **SwiftUI** - User interface framework
+- **Swift** - Programming language
+- **iOS 15.0+** - Minimum supported version
 
-## Como usar
+## How to use
 
-1. Digite o valor da conta
-2. Selecione o número de pessoas
-3. Escolha a porcentagem da gorjeta
-4. O aplicativo calculará automaticamente:
-   - Valor total (conta + gorjeta)
-   - Valor por pessoa
+1. Enter the bill amount
+2. Select the number of people
+3. Choose the tip percentage
+4. The app will automatically calculate:
+   - Total amount (bill + tip)
+   - Amount per person
 
-## Capturas de Tela
+## Installation
 
-*Adicione capturas de tela do aplicativo aqui*
+1. Clone the repository
+2. Open the `WeSplit.xcodeproj` file in Xcode
+3. Run the project on simulator or iOS device
 
-## Instalação
-
-1. Clone o repositório
-2. Abra o arquivo `WeSplit.xcodeproj` no Xcode
-3. Execute o projeto no simulador ou dispositivo iOS
-
-## Desenvolvido por
+## Developed by
 
 Lexi Oliveira
 
-## Data de Criação
+## Creation Date
 
-19 de Agosto de 2025
+August 19, 2025
